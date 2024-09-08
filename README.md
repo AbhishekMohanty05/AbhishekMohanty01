@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Abhishek Mohanty</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
-<img align="right"alt="coding"width="400"src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fhacktiv8&psig=AOvVaw3C83DesZr5-ldEpm5R40ZO&ust=1725793878550000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCLiD9qnZsIgDFQAAAAAdAAAAABAE"
+<p align="center"> 
+	<img src="https://komarev.com/ghpvc/?username=AbhishekMohanty05&label=Profile%20views&color=0e75b6&style=flat" alt="soumya99999" height=25px, width=160px/> 
+</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhishekmohanty05&label=Profile%20views&color=0e75b6&style=flat" alt="abhishekmohanty05" /> </p>
 
